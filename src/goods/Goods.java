@@ -37,5 +37,9 @@ public class Goods {
 	
 	public void setCountSold(int countSold) {
 		this.countSold = countSold;
-	}	
+	}
+	
+	public void show() {
+		
+	}
 }
