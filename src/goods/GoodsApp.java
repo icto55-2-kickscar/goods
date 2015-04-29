@@ -5,7 +5,7 @@ public class GoodsApp {
 		
 		Goods camera = new Goods();
 		
-		camera.setName( "Nikon" );
+		camera.setName( "Nikon2" );
 		camera.setPrice( 400000 );
 		camera.setCountSold( 50 );
 		camera.setCountStock( 30 );
