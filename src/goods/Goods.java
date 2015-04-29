@@ -2,7 +2,7 @@ package goods;
 
 public class Goods {
 	private String name;
-	private int price;
+	private int price2;
 	private int countStock;
 	private int countSold;
 	
@@ -15,12 +15,12 @@ public class Goods {
 	}
 	
 	public int getPrice() {
-		return price;
+		return price2;
 	}
 	
 	
 	public void setPrice(int price) {
-		this.price = price;
+		this.price2 = price;
 	}
 	
 	public int getCountStock() {
